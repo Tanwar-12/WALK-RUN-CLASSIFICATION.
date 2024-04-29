@@ -5,6 +5,7 @@
 
 _**IMPORTING ALL THE NECESSARY LIBRARIES**_
 _**LOAD THE DATA**_
+
 ## **DOMAIN ANALYSIS**
 _Domain analysis is a critical step in any project, including a walking vs. running classification project based on the
 provided data attributes. It involves gaining a deep understanding of the domain in which the project operates._ 
@@ -19,7 +20,7 @@ _**Domain Description**_:
 -  **Key Stakeholders**: _Researchers, data scientists, fitness app developers, wearable device manufacturers._    
 
     
--  _**Data Attributes**_:  
+  _**Data Attributes**_:  
 
 -  1) **Date and Time**: _These attributes provide the timestamp for each recorded data point. They may be useful for 
     analyzing patterns over time and establishing when the activities occurred._  
