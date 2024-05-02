@@ -4,6 +4,7 @@
 **To Create a predictive model to classify whether a person is running or walking based on the given predictor variables**.
 
 _**IMPORTING ALL THE NECESSARY LIBRARIES**_
+
 _**LOAD THE DATA**_
 
 ## **DOMAIN ANALYSIS**
